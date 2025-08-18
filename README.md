@@ -26,7 +26,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirasadek&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirasadek&layout=compact&theme=tokyonight)  
 
