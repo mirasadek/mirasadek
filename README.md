@@ -1,6 +1,5 @@
 # Hi there!  I'm Mira Sadek  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&width=500&lines=Hi+there!+I'm+Mira+Sadek;CS+Student;Developer;Lifelong+Learner)
 
 🎓 **Computer Science Student** in France  
 💻 Skilled in  **Python**, **C**, **ARM Assembly**, **R**, **Bash** and **OCaml**  
